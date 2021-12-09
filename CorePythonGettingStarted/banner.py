@@ -13,6 +13,8 @@ def prtTime():
 def main():
     banner("Ramon is the man")
     prtTime()
+    print("You are the man for using this")
 
 if __name__ == '__main__':
     main()
+    
